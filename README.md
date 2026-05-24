@@ -17,7 +17,6 @@ The main goal was to design a complete robotic system capable of controlled move
 * Kinematic modelling
 * Forward kinematics
 * Inverse kinematics
-* Motion interpolation
 * Embedded control system
 * Web-based control interface
 * Repeatability testing
@@ -37,7 +36,6 @@ The main goal was to design a complete robotic system capable of controlled move
 * C/C++
 * Forward kinematics
 * Inverse kinematics
-* Motion interpolation
 * WebServer
 * Remote control interface
 * Position calculations
@@ -74,11 +72,3 @@ The results allowed verification of the adopted kinematic assumptions and identi
 ## Current status
 
 Working prototype built and tested as a complete engineering thesis project.
-
-Future improvements:
-
-* improved motion algorithms,
-* stronger mechanical structure,
-* better repeatability,
-* camera/vision integration,
-* trajectory planning improvements.
