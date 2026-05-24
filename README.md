@@ -1,6 +1,6 @@
 # Educational 6-DOF Manipulator – Engineering Thesis
 
-![Prototype](Hardware/Photos/main.jpg)
+![Prototype](Dummy_v2/Hardware/Photos/main.jpg)
 
 ## Description
 
