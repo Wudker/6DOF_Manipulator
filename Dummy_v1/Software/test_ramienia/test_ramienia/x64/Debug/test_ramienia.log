@@ -1,0 +1,9 @@
+﻿  test_ramienia.cpp
+C:\Users\Duszy\Desktop\dummy_v1\test_ramienia\test_ramienia\test_ramienia.cpp(2,18): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Duszy\Desktop\dummy_v1\test_ramienia\test_ramienia\test_ramienia.cpp(4,24): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Duszy\Desktop\dummy_v1\test_ramienia\test_ramienia\test_ramienia.cpp(6,59): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Duszy\Desktop\dummy_v1\test_ramienia\test_ramienia\test_ramienia.cpp(7,70): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Duszy\Desktop\dummy_v1\test_ramienia\test_ramienia\test_ramienia.cpp(22,20): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Duszy\Desktop\dummy_v1\test_ramienia\test_ramienia\test_ramienia.cpp(25,20): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Duszy\Desktop\dummy_v1\test_ramienia\test_ramienia\test_ramienia.cpp(28,29): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  test_ramienia.vcxproj -> C:\Users\Duszy\Desktop\dummy_v1\test_ramienia\x64\Debug\test_ramienia.exe
